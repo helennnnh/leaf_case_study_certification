@@ -16,7 +16,7 @@ output: html_document
 #3.	How could these trends help influence Bellabeat marketing strategy?
 
 #Notes:
-#By analyzing how users are using smart devices today, we can unlock interesting trends or patterns in product usage that may influence the Bellabeat's own product journey. Perhaps there is an area of focus that we may want to target, and we can come up with a solution that addresses that opportunity gap.
+#By analyzing how users are using smart devices today, we can unlock interesting trends or patterns in product usage that may influence Bellabeat's own product journey. Perhaps there is an area of focus that we may want to target, and we can come up with a solution that addresses that opportunity gap.
 
 #Consider key stakeholders
 ## Marketing analytics team

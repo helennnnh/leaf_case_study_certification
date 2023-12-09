@@ -87,7 +87,8 @@ str(heartrate_secs)
 
 
 
-```{r Fixing All Date Format Issues}
+```{r }
+#Fixing All Date Format Issues
 #!Code appears to randomly keep breaking here
 daily_activity$activity_date <- ymd(daily_activity$activity_date)
 daily_sleep$sleep_day <- ymd_hms(daily_sleep$sleep_day)

@@ -1,5 +1,6 @@
 # leaf_case_study_certification
 Case study showcasing what I have learned about the data analytics process from Google on Coursera. All computations are made using R.
+The problem I am solving is how we can unlock new growth opportunities to company, Bellabeat, a high-tech manufacturer of health-focused products for women, through one of its products to help grow the business.
 ---
 title: "Google Data Analytics Cert_Case Study 2"
 author: "Helen"
